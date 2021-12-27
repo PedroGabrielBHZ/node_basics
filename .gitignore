@@ -1,0 +1,5 @@
+# ignore ephemeral IO
+message.txt
+
+# ignore modules
+node_modules/
